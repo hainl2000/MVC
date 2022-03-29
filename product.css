@@ -1,0 +1,51 @@
+.product-image{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+#add-product-button{
+    border: 1px solid gray;
+    width: 95px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: bisque;
+}
+#add-product-button a{
+    text-decoration: none;
+}
+
+table, th,td{
+    margin-top: 30px;
+    border: 1px solid red;
+}
+
+.show-product-container{
+    border-collapse: collapse;
+    border-color: blue;
+}
+
+.product-width {
+    padding: 8px;
+    text-align: center;
+}
+
+.product-td{
+    text-align: center;
+}
+
+.product-width:nth-child(1){
+    width: 80px;
+}
+
+.product-width:nth-child(2){
+    width: 150px;
+}
+
+.product-width:nth-child(3){
+    width: 80px;
+}
+
+.product-width:nth-child(4){
+    width: 100px;
+}
